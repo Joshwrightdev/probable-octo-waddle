@@ -1,1 +1,1 @@
-# first-day-intro
+# first-day-demo
